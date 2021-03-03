@@ -1,5 +1,5 @@
 # Web2App-Builder
-기존 웹 사이트를 앱으로 변환해줍니다.  
+기존 웹 사이트를 react-native와 webView를 이용하여 앱으로 변환해줍니다.  
 
 <br>
 
