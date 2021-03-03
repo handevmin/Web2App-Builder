@@ -63,9 +63,7 @@ npm install -g expo-cli
 
 빌드를 하기 위해서는 expo 계정이 필요하다. 없으면 "Make a new Expo account"를 선택해서 새로 만들어 줍니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/798c48f2-3d8b-43db-8f8f-a53a8212e904/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/798c48f2-3d8b-43db-8f8f-a53a8212e904/Untitled.png)
-
-빌드과정에서 위처럼 Keystone 관리를 어디서 할거냐는 메세지가 뜨면 특이사항 없으면 그냥 Expo가 하도록 맡겨줍니다.
+빌드과정에서 Keystone 관리를 어디서 할거냐는 메세지가 뜨면 특이사항 없으면 그냥 Expo가 하도록 맡겨줍니다.
 
 4) 안드로이드 번들 출시 
 
